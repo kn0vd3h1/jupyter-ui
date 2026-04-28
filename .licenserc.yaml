@@ -9,6 +9,7 @@ header:
       MIT License
 
   paths-ignore:
+    - 'setup.py'
     - '**/*.ipynb'
     - '**/*.json'
     - '**/*.md'
